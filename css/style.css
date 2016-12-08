@@ -1,0 +1,105 @@
+body {
+    background-color:mediumpurple;
+}
+
+.container {
+    width:960px;
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    background-color:#ffffff;
+    margin:20px auto 20px auto;
+}/**main container**/
+
+.div-text {
+    width:500px;
+    float:left;
+    padding:0px 35px 0px 50px;
+}
+
+.div-pic {
+    width:340px;
+    float:left;
+    padding:0px 15px 0px 15px;
+}
+
+.div-pic img {
+    padding-top:10px;
+}
+
+
+banner {
+    width:960;
+    height;300;
+}
+
+nav {
+    margin-left:25px;
+    margin-right:25px;
+    color:slateblue;
+}
+
+
+nav a {
+    padding-left:45px;
+    text-decoration:none;
+    color: purple;
+    font-size:1.1em;
+}
+
+nav a:hover {
+
+}
+
+nav a:visited {
+
+}
+
+.section1 {
+    width:960px;
+}
+
+.section2 {
+    width:960px;
+    clear:both;
+}
+
+.top-section {
+    width:960px;
+    padding:0px 0px 0px 35px;
+}
+
+
+h1 {
+    color:purple;
+    text-align:left;
+    font-family:sans-serif;
+    font-size:1.85em;
+}
+
+h2 {
+    color:black;
+    text-align:left;
+    padding-left:10px;
+    font-family:sans-serif;
+    font-size:1.15em;
+}
+
+h3 {
+    color:mediumpurple;
+    text-align:center;
+    font-family:serif;
+    font-size:1.35em;
+}
+
+h4 {
+    color:purple;
+    text-align:left;
+    font-family:sans-serif;
+    font-size:1.35em;
+}
+
+p {
+    font-size:.95em;
+    font-family:sans-serif;
+}
